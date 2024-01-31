@@ -43,7 +43,7 @@ class AplikantiController extends Controller
 
     
     
-
+    // metoda edit
     public function edit(Aplikanti $aplikanti)
     {
         $kualifikimet = Kualifikimi::all();
