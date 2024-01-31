@@ -15,7 +15,7 @@
 <body>
 
     <div class="container mt-4">
-        <h1>Your App</h1>
+        <h1>Job System Application</h1>
 
         <nav>
             <ul class="nav">
