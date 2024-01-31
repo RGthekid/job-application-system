@@ -8,7 +8,7 @@ use App\Models\Kualifikimi;
 
 class AplikantiController extends Controller
 {
-    //
+    // index
     public function index()
     {
         $aplikantet = Aplikanti::all();
